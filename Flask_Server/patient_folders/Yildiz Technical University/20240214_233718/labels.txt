@@ -1,0 +1,18 @@
+Amorf Baş
+Asimetrik Giriş Boyun
+Bükük Kuyruk
+Bükük boyun
+Dar Akrozom alanı
+Kalın Giriş Boyun
+Konik Baş
+Kısa Kuyruk
+Kıvrımlı kuyruk
+Normal
+Piriform Baş
+Uzun Kuyruk
+Vakuollü
+Yuvarlak baş
+Çift Kuyruk
+Çift baş
+İnce Giriş Boyun
+İğne baş
